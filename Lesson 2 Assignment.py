@@ -9,5 +9,3 @@ print("Hello, " + first_name + " " + last_name + "!\n" + "You are " + str(age) +
 
 print("In " + str(current_year + 1) + ", you will be " + str(age + 1) + " years old.")
 print("Completed by Lincoln Reeves.")
-
-graggle = input("graggle ")
