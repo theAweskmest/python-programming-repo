@@ -40,5 +40,3 @@ print("Monthly Investment Amount: $" + str(round(float(investment_amount), 2)))
 print("Total Portfolio Value: $" + str(round(future_total, 2)))
 
 print("Completed by Lincoln Reeves.")
-
-keep_open = input("Graggle ")
